@@ -1,0 +1,5 @@
+{
+  "images": ["Img1", "Img2", "Img3", "Img4"],
+  "showCaptions": true
+  "maxImageCount": 2
+}
